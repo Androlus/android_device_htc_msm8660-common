@@ -89,7 +89,5 @@ ENABLE_WEBGL := true
 TARGET_FORCE_CPU_UPLOAD := true
 DYNAMIC_SHARED_LIBV8SO := true
 
-# Bootanimation
-TARGET_BOOTANIMATION_PRELOAD := true
-
+# Kernel Source
 TARGET_KERNEL_SOURCE := kernel/htc/msm8660
